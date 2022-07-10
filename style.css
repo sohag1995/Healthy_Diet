@@ -1,0 +1,145 @@
+body{
+    font-family: 'Open Sans', sans-serif; 
+}
+a{
+    text-decoration: none;
+}
+#banner{
+    display: flex;
+    margin-top: 50px;
+}
+.food_network{
+    width: 50%;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.food_network h1 {
+	font-size: 50px;
+	padding-right: 165px;
+}
+.food_network p {
+	padding-bottom: 35px;
+    padding-top: 30px;
+	padding-right: 170px;
+   font-family: 'Open Sans', sans-serif;
+   font-weight: 400;
+}
+.food_network a {
+font-size: 25px;
+background-image: linear-gradient(brown,tomato);
+padding: 10px 20px;
+color: white;
+border-radius: 50px;
+
+}
+.food_network span{
+    color: tomato;
+}
+.ban_img{
+    width: 50%;
+    margin-top: 150px;
+
+}
+
+#about{
+display: flex;
+margin-top: 150px;
+background-image: url(iamges/Frame\ 59.jpg);
+background-position: center;
+ background-repeat: no-repeat;
+background-size:cover;
+}
+.about_image img{
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+
+.about_text{
+width: 50%;
+margin-top: 100px;
+margin-right: 100px;
+}
+
+.about_text a{
+    font-size: 25px;
+    background-image: linear-gradient(brown,tomato);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 50px;
+}
+
+.about_text p{
+   padding-bottom: 40px;
+}
+.recipie_text{
+    text-align: center;
+    margin-top: 80px;
+}
+.recipie_text p {
+	padding: 0px 380px;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+.title_img{
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 40px;
+    margin-left: 5px;
+   
+  
+}
+
+.title_image_one{
+    width: 50%;
+    padding: 10px 2px;
+    padding: 10px;
+    background-color: white;
+    margin-right: 10px;
+    box-shadow: 5px 5px 90px rgba(0, 0, 0, 0.095);
+}
+.title_image_two{
+    width: 50%;
+    padding: 10px 2px;
+    padding: 10px;
+    background-color:white;
+    margin-left: 10px;
+    box-shadow: 3px 3px 90px rgba(0, 0, 0, 0.095);
+}
+
+.digit{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    padding: 30px 15px;
+    background-color:white;
+    margin-left: 100px;
+    margin-right: 130px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.095);
+    font-weight: 900;
+   
+}
+#footer{
+    padding: 60px 0px;
+    background-color: black;
+    margin-top: 30px;
+    color: aliceblue;
+    text-align: center;
+}
+.footer h1 span{
+color: chocolate;
+}
+.footer h1{
+color: rgb(113, 111, 109);
+}
+.footer p{
+color: rgb(172, 161, 153);
+font-family: 'Montserrat', sans-serif;
+}
+
+
